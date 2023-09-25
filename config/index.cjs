@@ -16,11 +16,6 @@ const USER_CONFIG = {
 
   PROVINCE: '浙江',
   CITY: '绍兴',
-  {{weather.DATA}}
-{{date.DATA}}
-{{min_temperature.DATA}}
-{{max_temperature.DATA}}
-wx_birthday_{0}.DATA
 
   USERS: [
     {
