@@ -6,11 +6,7 @@
  * 自行添加属性，以支持更多个性化功能
  */
 const USER_CONFIG = {
-{{weather.DATA}}
-{{date.DATA}}
-{{min_temperature.DATA}}
-{{max_temperature.DATA}}
-wx_birthday_{0}.DATA
+
   // 使用微信测试号：公众号APP_ID
   APP_ID: 'wx871b3217acb81304',
 
