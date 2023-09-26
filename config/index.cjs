@@ -20,8 +20,8 @@ SWITCH: {
       id: 'ojaTg6i-G6yVw22x11LvpY3la_K4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'RybNFiBxzQ65hruJZU2pTveqVEmyZb2IhUXTPxl22Ng',
-      province: '绍兴',
-      city: '柯桥',
+      province: '浙江',
+      city: '绍兴',
       openUrl: 'https://baidu.com',
       
       festivals: [
