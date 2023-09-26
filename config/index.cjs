@@ -2,8 +2,8 @@
 const USER_CONFIG = {
   APP_ID: 'wx871b3217acb81304',
   APP_SECRET: '167c0e882b3fcc48d5b8db2eb88f23a6',
-  PROVINCE: '绍兴',
-  CITY: '柯桥',
+  PROVINCE: '浙江',
+  CITY: '绍兴',
 SWITCH: {
     /** 每日天气 */
     weather: true,
