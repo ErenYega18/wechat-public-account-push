@@ -17,7 +17,7 @@ SWITCH: {
       // 想要发送的人的名字
       name: '荔荔',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: ['ojaTg6i-G6yVw22x11LvpY3la_K4','ojaTg6p99JpbBaprL4JezYMeqkDQ']
+      id: ['ojaTg6i-G6yVw22x11LvpY3la_K4','ojaTg6gOsp7SKDVnWOvdFkajYfvM'],
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'U6oZUoyBWBoNYRmfxs7CzjoNQXz57AQm3-vlr0fX9_o',
       province: '浙江',
