@@ -19,7 +19,7 @@ SWITCH: {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ojaTg6i-G6yVw22x11LvpY3la_K4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'FLX8dKJOmDwiVotsDjL2VZvTa7U1enm9f7Njpv7LvMI',
+      useTemplateId: 'RDe44nXkcYUA03SODAlace69UlS6_hSpC_J2OALuJBE',
       province: '浙江',
       city: '绍兴',
       openUrl: 'https://baidu.com',
@@ -44,7 +44,7 @@ SWITCH: {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'FLX8dKJOmDwiVotsDjL2VZvTa7U1enm9f7Njpv7LvMI',
+  CALLBACK_TEMPLATE_ID: 'RDe44nXkcYUA03SODAlace69UlS6_hSpC_J2OALuJBE',
 
   CALLBACK_USERS: [
     {
