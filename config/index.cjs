@@ -17,7 +17,7 @@ SWITCH: {
       // 想要发送的人的名字
       name: '荔荔',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: ['ojaTg6i-G6yVw22x11LvpY3la_K4','ojaTg6gOsp7SKDVnWOvdFkajYfvM'],
+      id: 'ojaTg6gOsp7SKDVnWOvdFkajYfvM',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'U6oZUoyBWBoNYRmfxs7CzjoNQXz57AQm3-vlr0fX9_o',
       province: '浙江',
@@ -44,13 +44,17 @@ SWITCH: {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: 'U6oZUoyBWBoNYRmfxs7CzjoNQXz57AQm3-vlr0fX9_o',
 
   CALLBACK_USERS: [
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'ojaTg6i-G6yVw22x11LvpY3la_K4',
+      customizedDateList: [
+        // 在一起的日子
+        { keyword: 'love_day', date: '2023-08-15' },
+      ],
     }
   ],
 
